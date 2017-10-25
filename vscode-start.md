@@ -1,4 +1,4 @@
-# 【vscode】來使用vscode開發吧！
+# 【vscode】來使用vscode開發吧(一)！
 
 來到 MSP Blog 相信你一定是與程式學習相關的讀者，我想來向大家推薦一個非常好用的工具 -- vscode。  
 
