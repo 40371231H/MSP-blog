@@ -2,6 +2,7 @@
 從上一章節我們知道了 vscode 和 visual studio 的差別，還有要如何取的安裝。讓我來說我們用 vs code 到底會有多方便吧！
 
 ## 支援多程式語言的高亮語法
+原生支援相當多的語言開啟C#, VB, JavaScript, HTML, CSS, TypeScript, Ruby, Objective-C, PHP, JSON, Less, Sass 還有 Markdown⋯⋯。  
 不知道自己輸入的語法是否正確？透過預設高亮(HighLight)、程式碼片段(CodeSnippet)能夠直覺的確定語法。支援語言非常多，有些原生沒有支援的也可以透過擴充套件去補足。
 
 ## vscode GUI 的 git 介面
