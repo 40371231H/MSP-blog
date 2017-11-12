@@ -70,7 +70,7 @@ vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
 | 尋找檔案| Ctrl+P | Command+P |  
 | 尋找文字| Ctrl+F | Command+F |  
 | 切換最近的檔案| Ctrl[+Shift]+Tab | Command[+Shift]+Tab |  
-| 分割工作視窗| Ctrl+\\ | Command+\\ |  
+| 分割工作視窗| Ctrl+\\  | Command+\\  |  
 | 分割視窗切換| Ctrl+1\~3 | Command+1\~3 |  
 | 快速選取| Ctrl+D | Command+D |  
 
