@@ -39,7 +39,7 @@ vscode 從發佈以來就是完全開源的，代表只要你有能力，你就�
 > 硬體  
 > 1.6 GHz CPU  
 > 1 GB 記憶體  
-> 200 MB 硬碟空間  
+> 200 MB 硬碟空間  
 > 系統
 > Windows 7 以上 + .NET famework 4.5  
 > Mac OS X Yosemite  
@@ -63,18 +63,18 @@ vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
 如：開新檔案、儲存、剪下、複製、貼上。
 ```
 
-通用：
+通用：  
 功能|Windows 快捷鍵|Mac 快捷鍵
 -|-|-
 開啟 Command Palette|Ctrl+Shift+P|Command+Shift+P
 尋找檔案|Ctrl+P|Command+P
 尋找文字|Ctrl+F|Command+F
 切換最近的檔案|Ctrl[+Shift]+Tab|Command[+Shift]+Tab
-分割工作視窗|Ctrl+\\|Command+\\
+分割工作視窗|Ctrl+\\|Command+\\
 分割視窗切換|Ctrl+1~3|Command+1~3
 快速選取|Ctrl+D|Command+D
 
-Viewbar 切換：
+Viewbar 切換：  
 功能|Windows 快捷鍵|Mac 快捷鍵
 -|-|-
 將 Sidebar 顯示/隱藏|Ctrl+B|Command+B
@@ -84,7 +84,7 @@ Viewbar 切換：
 將 Sidebar 切換為 Debug|Ctrl+Shift+D|Command+Shift+D
 將 Sidebar 切換為 Extentions|Ctrl+Shift+X|Command+Shift+X
 
-編輯：
+編輯：  
 功能|Windows 快捷鍵|Mac 快捷鍵
 -|-|-
 新增游標|Alt+Click|Option+Click
