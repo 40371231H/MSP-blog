@@ -66,29 +66,29 @@ vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
 通用：  
 功能|Windows 快捷鍵|Mac 快捷鍵
 -|-|-
-開啟 Command Palette|Ctrl+Shift+P|Command+Shift+P
-尋找檔案|Ctrl+P|Command+P
-尋找文字|Ctrl+F|Command+F
-切換最近的檔案|Ctrl[+Shift]+Tab|Command[+Shift]+Tab
-分割工作視窗|Ctrl+\\|Command+\\
-分割視窗切換|Ctrl+1~3|Command+1~3
-快速選取|Ctrl+D|Command+D
+|開啟 Command Palette|Ctrl+Shift+P|Command+Shift+P|
+|尋找檔案|Ctrl+P|Command+P|
+|尋找文字|Ctrl+F|Command+F|
+|切換最近的檔案|Ctrl[+Shift]+Tab|Command[+Shift]+Tab|
+|分割工作視窗|Ctrl+\\|Command+\\|
+|分割視窗切換|Ctrl+1~3|Command+1~3|
+|快速選取|Ctrl+D|Command+D|
 
 Viewbar 切換：  
-功能|Windows 快捷鍵|Mac 快捷鍵
--|-|-
-將 Sidebar 顯示/隱藏|Ctrl+B|Command+B
-將 Sidebar 切換為 Explorer|Ctrl+Shift+E|Command+Shift+E
-將 Sidebar 切換為 Search|Ctrl+Shift+F|Command+Shift+F
-將 Sidebar 切換為 Source Control|Ctrl+Shift+G|Ctrl+Shift+G
-將 Sidebar 切換為 Debug|Ctrl+Shift+D|Command+Shift+D
-將 Sidebar 切換為 Extentions|Ctrl+Shift+X|Command+Shift+X
+|功能|Windows 快捷鍵|Mac 快捷鍵|
+|-|-|-|
+|將 Sidebar 顯示/隱藏|Ctrl+B|Command+B|
+|將 Sidebar 切換為 Explorer|Ctrl+Shift+E|Command+Shift+E|
+|將 Sidebar 切換為 Search|Ctrl+Shift+F|Command+Shift+F|
+|將 Sidebar 切換為 Source Control|Ctrl+Shift+G|Ctrl+Shift+G|
+|將 Sidebar 切換為 Debug|Ctrl+Shift+D|Command+Shift+D|
+|將 Sidebar 切換為 Extentions|Ctrl+Shift+X|Command+Shift+X|
 
 編輯：  
-功能|Windows 快捷鍵|Mac 快捷鍵
--|-|-
-新增游標|Alt+Click|Option+Click
-移動整行程式碼|Alt+up[or down]|Option+up[or down]
+|功能|Windows 快捷鍵|Mac 快捷鍵|
+|-|-|-|
+|新增游標|Alt+Click|Option+Click|
+|移動整行程式碼|Alt+up[or down]|Option+up[or down]|
 
 
 參考資料：  
