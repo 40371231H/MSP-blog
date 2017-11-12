@@ -63,7 +63,8 @@ vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
 如：開新檔案、儲存、剪下、複製、貼上。
 ```
 
-通用：  
+通用：
+
 | 功能 | Windows 快捷鍵 | Mac 快捷鍵 |  
 | --- | --- | --- |  
 | 開啟 Command Palette | Ctrl+Shift+P | Command+Shift+P |  
