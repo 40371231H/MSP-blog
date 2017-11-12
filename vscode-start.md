@@ -76,6 +76,7 @@ vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
 | 快速選取| Ctrl+D | Command+D |  
 
 Viewbar 切換：  
+
 |功能|Windows 快捷鍵|Mac 快捷鍵|
 | --- | --- | --- |
 |將 Sidebar 顯示/隱藏|Ctrl+B|Command+B|
@@ -86,6 +87,7 @@ Viewbar 切換：
 |將 Sidebar 切換為 Extentions|Ctrl+Shift+X|Command+Shift+X|
 
 編輯：  
+
 |功能|Windows 快捷鍵|Mac 快捷鍵|
 | --- | --- | --- |
 |新增游標|Alt+Click|Option+Click|
