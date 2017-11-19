@@ -35,5 +35,72 @@ vscode 從發佈以來就是完全開源的，代表只要你有能力，你就�
 
 ## 那我要在哪裡取得檔案安裝呢？
 透過搜尋引擎打上 vscode 可以找到官方頁面，或是輸入[https://code.visualstudio.com](https://code.visualstudio.com) 就可以下載自己電腦使用的平台就可以安裝囉！
+> 系統需求：  
+> 硬體  
+> 1.6 GHz CPU  
+> 1 GB 記憶體  
+> 200 MB 硬碟空間  
+> 系統
+> Windows 7 以上 + .NET famework 4.5  
+> Mac OS X Yosemite  
+> Linux（Deian, Rat Hat 系列）  
 
 ![vscode-download](./src/vscode-download.png)
+
+## 讓 vscode 更便利吧！
+電腦操作可以使用鍵盤、滑鼠、觸控螢幕，甚至是繪圖板！但是當在撰寫程式時不斷的從滑鼠與鍵盤切換會拖慢效率。
+
+為了能快速從終端機開起 vscode 我們要先將 code 加入環境變數中，只有 Mac 系統需要設定，Windows, Linux 安裝完成會自動加入。
+
+設定方法按下 Command+Shift+P（⌘+⇧+P），輸入 shell command，選擇在 PATH 中安裝 'code' 命令。
+![vscode-shellcommand](./src/vscode-shellcommand.png)
+
+現在在終端機視窗中，輸入 'code .' 就可快速用 vscode 開啟專案。
+
+## 常用快捷鍵
+```
+vscode 有許多與其他軟體相同的快捷鍵就不額外贅述了。
+如：開新檔案、儲存、剪下、複製、貼上。
+```
+
+通用：
+
+| 功能 | Windows 快捷鍵 | Mac 快捷鍵 |
+| --- | --- | --- |
+| 開啟 Command Palette | Ctrl+Shift+P | Command+Shift+P |
+| 尋找檔案| Ctrl+P | Command+P |
+| 尋找文字| Ctrl+F | Command+F |
+| 切換最近的檔案| Ctrl[+Shift]+Tab | Command[+Shift]+Tab |
+| 分割工作視窗| Ctrl+\\  | Command+\\  |
+| 分割視窗切換| Ctrl+1\~3 | Command+1\~3 |
+| 快速選取| Ctrl+D | Command+D |
+
+Viewbar 切換：  
+
+|功能|Windows 快捷鍵|Mac 快捷鍵|
+| --- | --- | --- |
+|將 Sidebar 顯示/隱藏|Ctrl+B|Command+B|
+|將 Sidebar 切換為 Explorer|Ctrl+Shift+E|Command+Shift+E|
+|將 Sidebar 切換為 Search|Ctrl+Shift+F|Command+Shift+F|
+|將 Sidebar 切換為 Source Control|Ctrl+Shift+G|Ctrl+Shift+G|
+|將 Sidebar 切換為 Debug|Ctrl+Shift+D|Command+Shift+D|
+|將 Sidebar 切換為 Extentions|Ctrl+Shift+X|Command+Shift+X|
+
+編輯：  
+
+|功能|Windows 快捷鍵|Mac 快捷鍵|
+| --- | --- | --- |
+|新增游標|Alt+Click|Option+Click|
+|移動整行程式碼|Alt+up[or down]|Option+up[or down]|
+
+
+參考資料：  
+- Visual Studio Code 快速上手指南：
+https://www.slideshare.net/shengyou/visual-studio-code-62532711  
+
+- vscode shortcut：
+[windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)、
+[mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)、
+[linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)  
+- Visual Studio Code 簡介：
+https://channel9.msdn.com/Series/Mastering-Visual-Studio-Code
