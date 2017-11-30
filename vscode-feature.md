@@ -15,7 +15,7 @@ https://git-scm.com。這之後我們就可以透過 GUI 介面來 git 囉！
 開啟現有專案資料夾
 ![vscode-gitinit](./src/vscode_gitinit1.png)
 
-切換至版本控制功能
+切換至版本控制功能
 ![vscode-gitinit](./src/vscode_gitinit2.png)
 
 git 初始化完成
@@ -62,7 +62,7 @@ git diff [file] 開新工作視窗比對前後資料變化。
 記得切換分之前要先將原本的檔案先 commit。  
 ![vscode-gitbranch](./src/vscode_gitbranch.png)  
 ## vscode debuger
-vscode 的 debuger 讓你在撰寫程式的時候能夠像使用 IDE 一樣順手，一樣不用透過輸入指令，用 GUI 介面操作。
+vscode 的 debuger 讓你在撰寫程式的時候能夠像使用 IDE 一樣順手，一樣不用透過輸入指令，用 GUI 介面操作。
 
 可以透過擴充套件增加其他 debug 模式。
 
