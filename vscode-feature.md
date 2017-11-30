@@ -63,13 +63,8 @@ git diff [file] 開新工作視窗比對前後資料變化。
 ![vscode-gitbranch](./src/vscode_gitbranch.png)  
 ## vscode debuger
 vscode 的 debuger 讓你在撰寫程式的時候能夠像使用 IDE 一樣順手，一樣不用透過輸入指令，用 GUI 介面操作。
-原生支援的有
+
 可以透過擴充套件增加其他 debug 模式。
 
 ## vscode terminal
-vscode 將我們常用的 git bash 加入到功能裡面，使用 vscode 時可以不用額外再開啟 git bash，當然習慣使用指令的人可以不需要使用前面兩個功能，直接透過 bash 操作。
-
-## vscode 的客製化
-vscode 讓使用者可以自由設定自己的使用者介面，包括字體大小、字型、主題、快捷鍵。
-
-另外因為 vscode 是用 electron 開發，所以也可以直接上 github fork 源文件，自己去修改喔！
+vscode 將我們常用的指令視窗整合到功能裡面，使用 vscode 時可以不用額外再開啟cmd, terminal, powershell, git bash，在習慣使用指令操作的人可以不需要使用前面兩個有 GUI 介面的功能，直接操作。
